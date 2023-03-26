@@ -1,3 +1,7 @@
 langchain
 openai
-Pillow
+unstructured
+pillow
+transformers
+torch
+bs4

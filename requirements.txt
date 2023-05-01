@@ -5,3 +5,4 @@ pillow
 transformers
 torch
 bs4
+tabulate
